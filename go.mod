@@ -1,3 +1,3 @@
-module github.com/fahmiarz/go-say-hello
+module github.com/fahmiarz/go-say-hello/v2
 
 go 1.22.3
